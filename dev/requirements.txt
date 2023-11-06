@@ -45,3 +45,5 @@ PyGithub
 
 # pandas API on Spark Code formatter.
 black==22.6.0
+gitpython>=3.1.33 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
