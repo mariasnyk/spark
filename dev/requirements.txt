@@ -7,7 +7,7 @@ pyarrow
 pandas
 scipy
 plotly
-mlflow>=1.0
+mlflow>=3.5.0rc0
 sklearn
 matplotlib<3.3.0
 
